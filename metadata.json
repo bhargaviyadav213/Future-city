@@ -1,0 +1,6 @@
+{
+  "name": "Future City Concept Generator",
+  "description": "AI-powered urban planning and futuristic city concept design platform powered by Google Gemini and Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
